@@ -15,7 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/styles/single_responsive.css">
 	<link rel="stylesheet" href="assets/styles/button_cart.css">
 	<link rel="stylesheet" href="assets/styles/loader.css">
-	<title>Crea Tu Carrito de Compras Online con la Magia de PHP, JavaScript y MySQL :: Urian Viera </title>
+	<title>desigualtattoostudio</title>
 
 </head>
 

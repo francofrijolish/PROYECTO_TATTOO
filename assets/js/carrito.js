@@ -175,7 +175,7 @@ function formatearCantidad(cantidad) {
  */
 const solictarPedido = (codPedido) => {
   const whatsappAPI = "https://api.whatsapp.com/send?phone=";
-  const phoneNumber = "+57xxxxxxxxxx";
+  const phoneNumber = "+584128100269";
 
   const link = `http://localhost/tienda-online/pdfPedido.php?codPedido=${codPedido}`;
   const message = `¡Hola! Me interesa el siguiente pedido: ${link}`;

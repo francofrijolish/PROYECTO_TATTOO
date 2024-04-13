@@ -12,7 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/styles/main_styles.css">
 	<link rel="stylesheet" type="text/css" href="assets/styles/responsive.css">
 	<link rel="stylesheet" href="assets/styles/loader.css">
-	<title>Crea Tu Carrito de Compras Online con la Magia de PHP, JavaScript y MySQL :: Urian Viera </title>
+	<title>desigualtattoostudio</title>
 </head>
 
 <body>
@@ -30,9 +30,9 @@
 	<div class="super_container">
 		<div class="container mt-5 pt-5">
 			<div class="row align-items-center">
-				<div class="col-lg-12 text-center">
+				<div class="col-lg-12 text-center padding-0">
 					<div class="section_title">
-						<img class="img-fluid" src="assets\images\giphy fondo.gif" alt="perros_y_gatos">
+						<img class="img-fluid" src="assets\images\giphy fondo.gif" alt="fondo gif">
 					</div>
 				</div>
 			</div>

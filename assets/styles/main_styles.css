@@ -1682,3 +1682,14 @@ input:valid::-webkit-input-placeholder {
   padding: 5px 15px;
   font-size: 20px;
 }
+
+.img-fluid {
+  width: 100vw;
+  height: 300px;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.padding-0 {
+  padding: 0;
+}
