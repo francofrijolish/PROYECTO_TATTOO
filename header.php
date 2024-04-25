@@ -5,7 +5,6 @@
 				<div class="col-md-12">
 					<div class="top_nav_left text-right" style="line-height: 30px !important;">
 						<i class="fa fa-user" aria-hidden="true"></i>
-						<a href="#" id="mi_cuenta">Mi Cuenta</a>
 					</div>
 				</div>
 			</div>
@@ -24,7 +23,7 @@
 						<ul class="navbar_menu">
 							<li><a class="nav-link" href="./">Inicio</a></li>
 							<li><a class="nav-link" href="./">Productos</a></li>
-							<li><a class="nav-link" href="#">contacto</a></li>
+							<li><a class="nav-link" href="contacto.php">contacto</a></li>
 						</ul>
 						<ul class="navbar_user">
 							<li class="checkout">
@@ -58,7 +57,7 @@
 					<i class="fa fa-angle-down"></i>
 				</a>
 				<ul class="menu_selection">
-					<li><a href="#">Urian Viera</a></li>
+					<li><a href="#">franco frijolish</a></li>
 					<li><a href="#">Cerrar Sesión</a></li>
 				</ul>
 			</li>
